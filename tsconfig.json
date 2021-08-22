@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "types": ["node", 
+      "webdriverio/async", 
+      "@wdio/cucumber-framework", 
+      "expect-webdriverio",
+      "@wdio/mocha-framework"],
+    "module": "commonjs",
+    "target": "ES2021"
+  }
+}
